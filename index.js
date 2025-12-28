@@ -1,5 +1,7 @@
 const functionA = () => console.log ("hello")
 
+const functionB = () => console.log ("hello B")
+
 const main = 'Main';
 
 const a = "AAA";
