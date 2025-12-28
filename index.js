@@ -1,1 +1,1 @@
-const a = 'AAA';
+const main = 'Main';
