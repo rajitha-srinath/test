@@ -1,3 +1,5 @@
 const main = 'Main';
 
-const secondCommit = "Second Commit";
+const a = "AAA";
+
+const b = "BBB";
