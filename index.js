@@ -1,3 +1,5 @@
+const functionA = () => console.log ("hello")
+
 const main = 'Main';
 
 const a = "AAA";
